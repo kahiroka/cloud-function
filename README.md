@@ -1,4 +1,4 @@
-# cloud_function
+# cloud-function
 Function PoC which supports AWS, Google Cloud and Azure
 
 ## LINE parroting bot
